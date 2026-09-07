@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 set -euo pipefail
 
-REPO_URL="https://github.com/Xiuyixx/Nginx-X.git"
+REPO_URL="https://github.com/gg949/Nginx-X.git"
 REPO_BRANCH="main"
 INSTALL_DIR="/opt/Nginx-X"
 TARGET_BIN="/usr/local/bin/nx"
