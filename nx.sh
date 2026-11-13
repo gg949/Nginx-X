@@ -34,7 +34,7 @@ EMAIL_CONF="${STATE_DIR}/email.conf"
 # shellcheck disable=SC2034
 DNS_CONF="${STATE_DIR}/dns.conf"
 DOMAIN_ONLY_STATE="${DOMAIN_ONLY_STATE:-$CONF_DIR/.nx-access-state}"
-REPO_URL="https://github.com/Xiuyixx/Nginx-X.git"
+REPO_URL="https://github.com/gg949/Nginx-X.git"
 REPO_BRANCH="main"
 REPO_INSTALL_DIR="${REPO_INSTALL_DIR:-/opt/Nginx-X}"
 
