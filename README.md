@@ -30,13 +30,13 @@
 ### 一键安装（推荐）
 
 ```bash
-bash -c "$(curl -fsSL https://raw.githubusercontent.com/Xiuyixx/Nginx-X/main/install.sh)"
+bash -c "$(curl -fsSL https://raw.githubusercontent.com/gg949/Nginx-X/main/install.sh)"
 ```
 
 ### 手动安装
 
 ```bash
-git clone https://github.com/Xiuyixx/Nginx-X.git
+git clone https://github.com/gg949/Nginx-X.git
 cd Nginx-X
 bash install.sh
 ```
